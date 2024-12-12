@@ -1,6 +1,6 @@
 #Created by: Ricardo Garcia 
 
-#this script contains all the logic of the game 
+#this script contains all the logic of the game :
 import pygame
 import sys 
 import random

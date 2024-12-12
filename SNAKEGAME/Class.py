@@ -7,7 +7,7 @@ import random
 
 #This script contains all the classes that I used in this project 
 
-#This is the class snake, contains all the logic about the snake properties 
+#This is the class snake, contains all the logic about the snake properties: 
 class Snake:
 
     def __init__(self):
