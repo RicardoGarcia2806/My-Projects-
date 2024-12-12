@@ -1,0 +1,9 @@
+#Due to the logic of the program, and the python libraries that I used, it is necessary that you have the Pygame module
+#installed on your PC
+
+## The project contains a very simple Snake game, this game will registered your max score, saving a text file that the program will read and identify the max score
+
+## The class "Snake" and the class "Apple" are the logic and physics of the operation of each one. The first one, do the  "Movement" of the snake, and their properties (for example, "die" or "eat"). The second one, do the physics of the apple, this one can appear in a random place around the grid where the snake can move, and the apple disappear when the snake eat it
+
+
+
